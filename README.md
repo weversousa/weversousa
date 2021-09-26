@@ -1,4 +1,5 @@
 ### Oiii!!! Eu sou o Weverton Teixeira
+🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta
 
 <div align="center">
   <a href="https://github.com/weversousa">
